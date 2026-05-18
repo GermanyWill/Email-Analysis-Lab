@@ -6,17 +6,15 @@ Analyze email headers, links, attachments, and sender information to identify ph
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in navigating Azure and its resources.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of how to read and analyze security logs.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Phishing email detection and analysis
+- Email header and metadata investigation
+- Threat identification through link and attachment analysis
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Log Analytics Workspace in Azure for log consolidation.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Notepad++ to fully extract the metadata from the email.
+- CyberChef to decode messages.
+- HxD to reveal file types.
 
 ## Steps
 •	First I started up my Windows 10 virtual machine. 
